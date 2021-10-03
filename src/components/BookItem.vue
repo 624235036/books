@@ -12,7 +12,7 @@
 </template>
 
 <script>
-
+//bueatyful
 
 export default {
   name: 'BookItem',
